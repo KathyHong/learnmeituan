@@ -1,4 +1,4 @@
-# learnmeituan
+# learnmeituan（基于Vue-Cli3打造）
 
 ## Project setup
 ```
